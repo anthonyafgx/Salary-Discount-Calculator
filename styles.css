@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap");
+
+input {
+  width: 40% !important;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 75px;
+}
+
+h1 {
+  font-family: "Kdam Thmor Pro", sans-serif;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0d6dfd;
+  color: white;
+  text-align: center;
+}
